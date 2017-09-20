@@ -1,0 +1,7 @@
+workspace 'StoreManage.xcworkspace'
+project 'StoreManage/StoreManage.xcodeproj'
+target 'StoreManage'
+pod 'AFNetworking'
+pod 'SDAutoLayout', '~> 2.1.3'
+pod 'MMDrawerController', '~> 0.5.7'
+pod 'YZPullDownMenu'
